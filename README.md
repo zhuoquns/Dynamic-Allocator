@@ -10,3 +10,4 @@ Throughout the implementation of the dynamic memory allocator, I demonstrated my
 
 Overall, this project provided valuable experience in implementing a pool allocator and utilizing system calls for managing the program break, thereby improving dynamic memory allocation in Unix environments.
 
+To gain access to the actual code, please send me an email at christophersong32@gmail.com . By reaching out via email, I will be able to provide you with the necessary information and share the code with you securely. Feel free to include any specific details or questions you may have regarding my project.
