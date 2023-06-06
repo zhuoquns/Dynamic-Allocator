@@ -1,6 +1,6 @@
 # Dynamic-Allocator
 
-During this project, I successfully developed and implemented a robust and efficient dynamic memory allocator designed to replace the standard malloc() calloc() realloc() and free() function for heap memory in a Unix process. This endeavor allowed me to gain valuable insights into the realm of dynamic memory management, pointer manipulation, and pointer casting.
+During this project, I successfully developed and implemented a robust and efficient dynamic memory allocator designed to replace the standard malloc() calloc() realloc() and free() function for heap memory in a Unix process, capable of running vim. This endeavor allowed me to gain valuable insights into the realm of dynamic memory management, pointer manipulation, and pointer casting.
 
 To achieve this, I utilized a pool allocator approach, employing multiple memory pools. Each memory pool consisted of fixed-size allocations, catering to a range of memory requirements from 32 bytes to 4096 bytes. By adopting this strategy, I ensured optimal memory utilization and allocation efficiency within the Unix process.
 
